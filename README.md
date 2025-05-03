@@ -1,6 +1,8 @@
 # EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
+# NAME : MOHAMED HAFEEZ S
+# REG NO : 212224040193
 ## DATE:
-
+03-05-2025
 ## AIM: 
 To create orthographic view of given 3D model
 
@@ -36,8 +38,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
-
-
+![Screenshot 2025-05-03 114722](https://github.com/user-attachments/assets/61b916f2-722b-4d80-ad8a-27b1194d9673)
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
 
